@@ -16,6 +16,7 @@ Projects included here reflect my capabilities in planning, implementing, and op
 **Platform:** Steam  
 **Old Name:** Tea House Simulator  
 🎮 Steam Store: [Coffee House Simulator](https://store.steampowered.com/app/3371520/Coffee_House_Simulator/)
+🎬 Official Game Trailer: https://www.youtube.com/watch?v=IdB-69mLSmo
 
 ### Project Overview
 
